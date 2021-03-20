@@ -1,6 +1,6 @@
 # object_detection
 
-Using a pre trained (trained on cocodataset) ssd mobilenet v3 and opencv.
+Using a pre trained (trained on cocodataset) ssd mobilenet v3 and opencv to dectect object in an image or detect multiple objects live from camera.
 
 Install Anaconda :
     
