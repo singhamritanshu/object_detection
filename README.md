@@ -1,6 +1,7 @@
 # object_detection
 
 Using a pre trained (trained on cocodataset) ssd mobilenet v3 and opencv.
+
 Install Anaconda :
     
     https://www.anaconda.com/products/individual
